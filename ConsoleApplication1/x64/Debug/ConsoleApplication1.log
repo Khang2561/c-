@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\lamvu\Documents\code c++\opp thuc hanh\Bai KT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,14): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lamvu\Documents\code c++\opp thuc hanh\Bai KT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(106,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lamvu\Documents\code c++\opp thuc hanh\Bai KT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(120,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lamvu\Documents\code c++\opp thuc hanh\Bai KT\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(353,9): warning C4068: unknown pragma 'endregio'
+  ConsoleApplication1.vcxproj -> C:\Users\lamvu\Documents\code c++\opp thuc hanh\Bai KT\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
